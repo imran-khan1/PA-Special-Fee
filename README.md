@@ -1,4 +1,4 @@
-# woocommerce Apply specific surchage fee on pensylvania state on checkout page
+# woocommerce Apply specific surchage fee on Pennsylvania state on checkout page
 
 
 
