@@ -4,7 +4,7 @@ Plugin Name: Shipping States - Pennsylvania Fee
 Plugin URI: http://imran1.com
 Description: Requires Pennsylvania residents to specify a liquor store for shipping and applies a surcharge.
 Version: 1.1.0
-Author: Imran Khan
+Author: Imran Khan Amy
 Author URI: http://imran1.com
 */
 
